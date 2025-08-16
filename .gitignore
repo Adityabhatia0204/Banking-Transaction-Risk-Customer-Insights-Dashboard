@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Excel temp files
+~$*.xlsx
+*.tmp
+
+# System/editor
+.DS_Store
+Thumbs.db
+.vscode/
